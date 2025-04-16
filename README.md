@@ -1,4 +1,7 @@
 ## Hi there am lenox 👋 <br/>
+<p align="center">
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" width="1200" height="400" />
+</p>
 Computer - Programmer<br/>
 ..<br/>
 Sometimes I'm right.<br/>
